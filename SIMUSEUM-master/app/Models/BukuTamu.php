@@ -14,7 +14,7 @@ class BukuTamu extends Model
         'pekerjaan',
         'usia',
         'kesan',
-        'jajan',
+        'pesan',
 
     ];
 
